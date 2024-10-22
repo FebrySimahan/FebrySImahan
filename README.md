@@ -1,4 +1,4 @@
-rocket ciken enak
+olive ciken enak
 
 <!--
 **FebrySimahan/FebrySImahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
