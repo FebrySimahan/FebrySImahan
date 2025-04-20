@@ -1,4 +1,4 @@
-olive ciken enak
+i like fried chicken
 
 <!--
 **FebrySimahan/FebrySImahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
