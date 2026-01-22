@@ -31,27 +31,9 @@
 
 ---
 
-### 🚀 Current Focus
-- 🔎 Website Audit System
-- 🎮 Unity Game Project
-- 🧠 System Analysis & ERD Design
-
----
-
-### 📫 Connect With Me
-<p>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/username">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2d1c2o0djY5Y2twaDdlZTN6cWc0a3QzY21oZ29qMWVvY2E0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlHFRbmaZtBRhXG/giphy.gif" width="300"/>
 </p>
 
-⭐ _Don't forget to star my repositories if you find them useful!_
+
