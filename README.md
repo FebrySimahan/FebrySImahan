@@ -23,14 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FebrySimahakn&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebrySimahan&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2d1c2o0djY5Y2twaDdlZTN6cWc0a3QzY21oZ29qMWVvY2E0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlHFRbmaZtBRhXG/giphy.gif" width="300"/>
