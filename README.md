@@ -11,14 +11,13 @@
 - 💻 Web & Game Developer  
 - 🎮 Unity Game Development  
 - 🌐 React & Laravel  
-- 🗄️ Database & System Design  
 - 📍 Indonesia  
 
 ---
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=react,laravel,ts,js,php,python,cs,unity,mysql,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,laravel,ts,js,php,cs,unity,mysql,git,vscode&theme=dark" />
 </p>
 
 ---
