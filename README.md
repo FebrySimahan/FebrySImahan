@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Febry Simahan</h1>
-<h3 align="center">Software Developer | Web Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;Game+Developer+(Unity);React+%7C+Laravel+%7C+Unity;Always+Learning+New+Things" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 💻 Web & Game Developer  
+- 💻 Web Developer
 - 🌐 React & Laravel  
 - 📍 Indonesia  
 
