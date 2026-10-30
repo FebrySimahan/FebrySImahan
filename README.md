@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Febry Simahan</h1>
-<h3 align="center">Software Developer | Web & Game Enthusiast</h3>
+<h3 align="center">Software Developer | Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;Game+Developer+(Unity);React+%7C+Laravel+%7C+Unity;Always+Learning+New+Things" alt="Typing SVG" />
@@ -9,7 +9,6 @@
 
 ### 👨‍💻 About Me
 - 💻 Web & Game Developer  
-- 🎮 Unity Game Development  
 - 🌐 React & Laravel  
 - 📍 Indonesia  
 
@@ -17,7 +16,7 @@
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=react,laravel,ts,js,php,cs,unity,mysql,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,laravel,ts,js,php,cs,mysql,git,vscode&theme=dark" />
 </p>
 
 ---
