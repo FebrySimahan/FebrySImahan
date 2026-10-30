@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;Game+Developer+(Unity);React+%7C+Laravel+%7C+Unity;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;React+%7C+Laravel+%7C;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
